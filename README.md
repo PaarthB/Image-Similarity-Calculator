@@ -5,7 +5,7 @@ Checks how much percentage of a hollow shape does a solid image correctly fit/re
 # Usage
 Firstly logon to a OpenCV environment:
 
-    workon cv
+    workon cv (only tried on ubuntu)
     
 Next, run the program, keeping the image files (both noise and hollow ones) in the same directory as the program:
 
