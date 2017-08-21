@@ -1,4 +1,6 @@
-""" A python program to calculate how much percentage of a hollow shape does a solid image correctly fill """
+"""
+A python program to calculate how much percentage of a hollow shape does a solid image correctly fill 
+"""
 import cv2
 import os
 import time
